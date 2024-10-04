@@ -33,3 +33,4 @@ Thumbs.db
 .hypothesis/
 .mypy_cache/
 .pylint.d/
+/replace.txt
