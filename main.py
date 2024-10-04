@@ -762,7 +762,6 @@ def main():
             display_str = display_results(formatted_results, [])
             print(display_str)
          
-         
                
 if __name__ == "__main__":
     main()
