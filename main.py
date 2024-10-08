@@ -33,6 +33,7 @@ we don’t typically need to purchase each model separately; instead, we can use
 with pricing varying depending on the model and amount of usage (in tokens including tokens of input & output as well).
 Always check OpenAI’s current pricing and model details for the most accurate information.
 '''
+
 def complete_correct(movie_name):
     prompt = f"Correct the spelling or complete the movie name: '{movie_name}'"
     
